@@ -1,6 +1,7 @@
-Exercise Timer - Heart Rate Tracking App
+Cronômetro de Exercícios
+
 📌 Overview
-The Exercise Timer is an app developed as part of Estácio de Sá University's extension project for the Android Mobile Programming discipline. Created in Kotlin using Android Studio, the app was designed to optimize cardio workouts (such as jumping jacks, squats, and others), eliminating the need to stop and check the time on your phone.
+The Cronômetro de Exercícios is an app developed as part of Estácio de Sá University's extension project for the Android Mobile Programming discipline. Created in Kotlin using Android Studio, the app was designed to optimize cardio workouts (such as jumping jacks, squats, and others), eliminating the need to stop and check the time on your phone.
 
 🎯 Purpose
 Many people who practice physical activities waste time and concentration by constantly checking their phones to control the duration of their sets. The Exercise Timer solves this problem by allowing the user to set personalized intervals for exercises, rest, and preparation, using vibration signals to indicate each transition, without the need to view the device screen.
